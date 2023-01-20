@@ -1,11 +1,11 @@
 # Database-Management-System
 Database Engine is a database management system {DBMS} developed with  bash scripting 
 
-# Contributers
+#Contributers
 - Muhammad Shaaban elgendi
 - Sherif Essam
 
-# DBMS Functionalities
+# database management system Functionalities
 ## Database Functionalities
 - Create Database
 - List Databases
@@ -20,15 +20,18 @@ Database Engine is a database management system {DBMS} developed with  bash scri
 - Select from Table
 - Delete from Table
 - Update Tabl
-# How to get Code 
+#How to get Code 
 * BY terminal in your device:
-   * mkdir DBEngine
-   * cd ./DBEngine
-   * git clone https://github.com/Gendi97/Database-Management-System.git
-   * start.sh
+    * mkdir DBEngine
+    * cd ./DBEngine
+    * git clone https://github.com/Gendi97/Database-Management-System.git
+    * start.sh
 
 * BY git Interface:
-   * press "<span style="color:green">Code</span>" button in the top right then choose "Download ZIP"
-   * extract DBEngineUsingBash
-   * cd DBEngineUsingBash
-   * start.sh
+    * press "<span style="color:green">Code</span>" button in the top right then choose "Download ZIP"
+    * extract DBEngineUsingBash
+    * cd DBEngineUsingBash
+    * start.sh
+
+![image](/home/gendi/Pictures/Screenshots/Screenshot from 2023-01-20 19-19-01.png raw=true "Home")
+
