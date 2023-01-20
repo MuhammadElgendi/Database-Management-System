@@ -30,9 +30,13 @@ Database Engine is a database management system {DBMS} developed with  bash scri
 * BY git Interface:
     * press "<span style="color:green">Code</span>" button in the top right then choose "Download ZIP"
     * extract DBEngineUsingBash
-    * cd DBEngineUsingBash
+    * cd DBEngineUsingB
     * start.sh
 
-Screenshot from 2023-01-20 19-19-01.png
+# Screenshot
+![Screenshot from 2023-01-20 19-19-01](https://user-images.githubusercontent.com/107524115/213765127-f7435c7c-ff40-4dcb-8e3c-11c97035a00b.png)
 
-![image](~/Pictures/Screenshots/Screenshot from 2023-01-20 19-19-01.png)
+![image](https://user-images.githubusercontent.com/107524115/213765685-dedcbcbf-537c-4946-9ded-d722ea5ff305.png)
+
+![image](https://user-images.githubusercontent.com/107524115/213765848-b1d34b5e-6c49-4e3e-a857-dd9d8deb024c.png)
+
