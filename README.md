@@ -33,5 +33,6 @@ Database Engine is a database management system {DBMS} developed with  bash scri
     * cd DBEngineUsingBash
     * start.sh
 
-![image](/home/gendi/Pictures/Screenshots/Screenshot from 2023-01-20 19-19-01.png raw=true "Home")
+Screenshot from 2023-01-20 19-19-01.png
 
+![image](~/Pictures/Screenshots/Screenshot from 2023-01-20 19-19-01.png)
